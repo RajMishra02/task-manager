@@ -1,0 +1,43 @@
+
+.navbar {
+    background-color: rgb(62, 62, 235);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    padding: 0 20px;
+    width: 100%;
+    margin: 0;
+    margin-top: -20px;
+}
+  
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar-link {
+    color:white;
+    margin-bottom: 10px;
+
+  }
+  
+  .navbar-link:hover {
+    text-decoration: underline;
+  }
+
+  .navbar-header{
+    color: white;
+    align-items: center;
+    
+  }
+
+  .navbar-item{
+    color: white;
+    font-size: large;
+    display: flex;
+    align-items: center;
+  }
+  
